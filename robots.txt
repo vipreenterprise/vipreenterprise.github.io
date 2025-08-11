@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://vipreexplained.github.io/sitemap.xml
+Sitemap: https://vipreenterprise.github.io/sitemap.xml
